@@ -9,3 +9,4 @@
 | 12 | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | [JavaScript](https://github.com/saqib40/LeetCode/blob/main/Solutions/12.js) | Medium |
 | 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [Javascript](https://github.com/saqib40/LeetCode/blob/main/Solutions/13.js) | Easy |
 | 66 | [Plus One](https://leetcode.com/problems/plus-one/) | [JavaScript](https://github.com/saqib40/LeetCode/blob/main/Solutions/66.js) | Easy |
+| 67 | [Add Binary](https://leetcode.com/problems/add-binary/) | [JavaScript]() | Easy |
