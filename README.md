@@ -11,3 +11,4 @@
 | 66 | [Plus One](https://leetcode.com/problems/plus-one/) | [JavaScript](https://github.com/saqib40/LeetCode/blob/main/Solutions/66.js) | Easy |
 | 67 | [Add Binary](https://leetcode.com/problems/add-binary/) | [JavaScript](https://github.com/saqib40/LeetCode/blob/main/Solutions/67.js) | Easy |
 | 204 | [Count Primes](https://leetcode.com/problems/count-primes/) | [JavaScript](https://github.com/saqib40/LeetCode/blob/main/Solutions/204.js) | Easy |
+| 231 | [Power of Two](https://leetcode.com/problems/power-of-two/) | [Javascript]() | Easy |
