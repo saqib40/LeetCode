@@ -8,6 +8,7 @@
 | 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [JavaScript](https://github.com/saqib40/LeetCode/blob/main/Solutions/9.js) | Easy |
 | 12 | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | [JavaScript](https://github.com/saqib40/LeetCode/blob/main/Solutions/12.js) | Medium |
 | 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [Javascript](https://github.com/saqib40/LeetCode/blob/main/Solutions/13.js) | Easy |
+| 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [Javascript]() | Easy |
 | 66 | [Plus One](https://leetcode.com/problems/plus-one/) | [JavaScript](https://github.com/saqib40/LeetCode/blob/main/Solutions/66.js) | Easy |
 | 67 | [Add Binary](https://leetcode.com/problems/add-binary/) | [JavaScript](https://github.com/saqib40/LeetCode/blob/main/Solutions/67.js) | Easy |
 | 69 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | [JavaScript](https://github.com/saqib40/LeetCode/blob/main/Solutions/69.js) | Easy |
