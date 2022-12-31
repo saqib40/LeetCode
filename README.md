@@ -1,7 +1,7 @@
 # LeetCode solutions in JavaScript
 
 
-| ID | Title | Solution | Difficulty |
+| ID | Title | Solution (JS) | Solution (Python) | Difficulty |
 | --- | --- | --- | --- |
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [JavaScript](https://github.com/saqib40/LeetCode/blob/main/Solutions/1.js) | [Python]() | Easy |
 | 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [JavaScript](https://github.com/saqib40/LeetCode/blob/main/Solutions/7.js) | Easy |
