@@ -28,5 +28,5 @@ def comparison(strs):
             else:
                 answer = comaprisonB(answer,strs[i])
                 i += 1
-    return answer
+                return answer
 
