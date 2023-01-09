@@ -9,7 +9,7 @@
 | 12 | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | [JavaScript](https://github.com/saqib40/LeetCode/blob/main/Solutions/12.js) | [Python]() | Medium |
 | 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [Javascript](https://github.com/saqib40/LeetCode/blob/main/Solutions/13.js) | [Python]() | Easy |
 | 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [JavaScript](https://github.com/saqib40/LeetCode/blob/main/Solutions/14.js) | [Python](https://github.com/saqib40/LeetCode/blob/main/Python%20Solutions/14.py) | Easy |
-| 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [JavaScript](https://github.com/saqib40/LeetCode/blob/main/Solutions/58.js) | [Python]() | Easy |
+| 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [JavaScript](https://github.com/saqib40/LeetCode/blob/main/Solutions/58.js) | [Python](https://github.com/saqib40/LeetCode/blob/main/Python%20Solutions/58.py) | Easy |
 | 66 | [Plus One](https://leetcode.com/problems/plus-one/) | [JavaScript](https://github.com/saqib40/LeetCode/blob/main/Solutions/66.js) | [Python]() | Easy |
 | 67 | [Add Binary](https://leetcode.com/problems/add-binary/) | [JavaScript](https://github.com/saqib40/LeetCode/blob/main/Solutions/67.js) | [Python]() | Easy |
 | 69 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | [JavaScript](https://github.com/saqib40/LeetCode/blob/main/Solutions/69.js) | [Python]() | Easy |
