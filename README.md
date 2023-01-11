@@ -5,7 +5,7 @@
 | --- | --- | --- | --- | --- |
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [JavaScript](https://github.com/saqib40/LeetCode/blob/main/Solutions/1.js) | [Python](https://github.com/saqib40/LeetCode/blob/main/Python%20Solutions/1.py) | Easy |
 | 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [JavaScript](https://github.com/saqib40/LeetCode/blob/main/Solutions/7.js) | [Python]() | Medium |
-| 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [JavaScript](https://github.com/saqib40/LeetCode/blob/main/Solutions/9.js) | [Python]() | Easy |
+| 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [JavaScript](https://github.com/saqib40/LeetCode/blob/main/Solutions/9.js) | [Python](https://github.com/saqib40/LeetCode/blob/main/Python%20Solutions/9.py) | Easy |
 | 12 | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | [JavaScript](https://github.com/saqib40/LeetCode/blob/main/Solutions/12.js) | [Python]() | Medium |
 | 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [Javascript](https://github.com/saqib40/LeetCode/blob/main/Solutions/13.js) | [Python]() | Easy |
 | 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [JavaScript](https://github.com/saqib40/LeetCode/blob/main/Solutions/14.js) | [Python](https://github.com/saqib40/LeetCode/blob/main/Python%20Solutions/14.py) | Easy |
