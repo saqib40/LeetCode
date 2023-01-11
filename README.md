@@ -13,5 +13,5 @@
 | 66 | [Plus One](https://leetcode.com/problems/plus-one/) | [JavaScript](https://github.com/saqib40/LeetCode/blob/main/Solutions/66.js) | [Python]() | Easy |
 | 67 | [Add Binary](https://leetcode.com/problems/add-binary/) | [JavaScript](https://github.com/saqib40/LeetCode/blob/main/Solutions/67.js) | [Python]() | Easy |
 | 69 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | [JavaScript](https://github.com/saqib40/LeetCode/blob/main/Solutions/69.js) | [Python]() | Easy |
-| 204 | [Count Primes](https://leetcode.com/problems/count-primes/) | [JavaScript](https://github.com/saqib40/LeetCode/blob/main/Solutions/204.js) | [Python]() | Easy |
+| 204 | [Count Primes](https://leetcode.com/problems/count-primes/) | [JavaScript](https://github.com/saqib40/LeetCode/blob/main/Solutions/204.js) | [Python]() | Medium |
 | 231 | [Power of Two](https://leetcode.com/problems/power-of-two/) | [Javascript](https://github.com/saqib40/LeetCode/blob/main/Solutions/231.js) | [Python]() | Easy |
