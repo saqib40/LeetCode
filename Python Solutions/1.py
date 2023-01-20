@@ -9,7 +9,7 @@ def twoSum(nums, target):
                 answer = [a, m]
                 return answer
 
-#Method 2 => Time Complexity; O(n) because indexing takes constant time
+#Method 2 => Accepted; Time Complexity; O(n^2)
 def twoSum2(nums, target):
     i = 0
     while(i < len(nums)):
